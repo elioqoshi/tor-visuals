@@ -8,6 +8,4 @@ Baners are licensed under a CC BY license.
 
 Copyright The Tor Project, Inc.. Reproduction of content is permitted under a Creative Commons Attribution 3.0 United States License. All use under such license must be accompanied by a clear and prominent attribution that identifies The Tor Project, Inc. as the owner and originator of such content.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/zHAR7wtwUVkKwfBeio82eCfE/elioqoshi/tor-visuals'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/zHAR7wtwUVkKwfBeio82eCfE/elioqoshi/tor-visuals.svg' />
-</a>
+
